@@ -2,7 +2,7 @@
 
 ## <p align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07C800&width=300&height=30&lines=sudo+su+Passw0rd;Cybersecurity+Specialist)](https://git.io/typing-svg)</p>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+##  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>> About Me
 
 - :credit_card: My full name is **Huỳnh Lê Thủy Tiên** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently 3rd year student at **FPT University - Ho Chi Minh City Campus**
